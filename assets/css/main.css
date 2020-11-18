@@ -2807,7 +2807,7 @@ input, select, textarea {
 					}
 
 					#header > nav ul li a:hover{
-						background-color: white;
+						background-color: grey;
 						color:#5ccfb1;
 					}
 					
