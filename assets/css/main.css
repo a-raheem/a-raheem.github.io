@@ -1790,8 +1790,9 @@ input, select, textarea {
 	}
 
 		header.major h2 + p {
-			color: #777;
+			color:teal;
 			font-size: 1.75em;
+			font-style: italic;
 			font-weight: 700;
 			margin-top: -0.75em;
 		}
